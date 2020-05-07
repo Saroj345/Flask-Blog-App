@@ -1,0 +1,18 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/tech_blog",
+    "prod_uri": "mysql://root:@localhost/tech_blog",
+    "insta_uri": "https://www.instagram.com/xaroz_khadka/",
+    "linkedin_uri": "https://www.linkedin.com/in/saroj-khadka-9a1a86149/",
+    "github_url":"https://github.com/Saroj345",
+    "blog_title": "Coder School",
+    "subtitle": "Your Friend for Programming",
+    "about_page":"An enthusastic person who is always keen on learning new things to make his carrer in programming",
+    "numberof_post":2,
+    "admin_user": "saroj_kc",
+    "admin_pass": "Hello@345"
+  }
+
+
+}
